@@ -12,5 +12,6 @@ My Software Engineering Learning Repsitory (2025+)
 - [.NET Platform(GitHub)](https://github.com/dotnet?WT.mc_id=dotnet-35129-website)
 - [Contribute to the .NET documentation repositories](https://learn.microsoft.com/en-gb/contribute/content/dotnet/dotnet-contribute)
 - [Build your first web app with ASP.NET Core using Blazor](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro)
+- [WSO2 Self-Paced Training](https://lms.wso2.com/)
 ## KEYWORDS
 ``Software``, ``Software Economics``, ``Software Engineering``, ``Software Engineering``, ``Software Development``, ``Software Project Management``, ``Software Implementation Management``, ``Software Quality Assurance``, ``Software Testing``
