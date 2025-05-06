@@ -1,6 +1,11 @@
 # SOFTWARE-ENGINEER-BOOTCAMP
 My Software Engineering Learning Repsitory (2025+)
 
+## KEY REPOSITORY DOCUMENTATIONS
+
+- []()
+- []()
+
 ## REFERENCES & RESOURCES
 - [Introduction to .NET](https://learn.microsoft.com/en-gb/dotnet/core/introduction?WT.mc_id=dotnet-35129-website)
 - [Get started with .NET](https://learn.microsoft.com/en-gb/dotnet/core/get-started)
@@ -22,5 +27,9 @@ My Software Engineering Learning Repsitory (2025+)
 - [OpenShift Repository](https://github.com/openshift)
 - [Get Started with WSO2](https://wso2.com/)
 - [Master Open Source Solutions with WSO2 Training and Certification](https://wso2.com/training/)
+- [Get Started with Choreo](https://choreo.dev/)
+- [Choreo Documentation](https://wso2.com/choreo/docs/what-is-choreo/)
+- [Choreo: AI-NATIVE INTERNAL DEVELOPER PLATFORM AS A SERVICE](https://wso2.com/choreo/)
+
 ## KEYWORDS
 ``Software``, ``Software Economics``, ``Software Engineering``, ``Software Engineering``, ``Software Development``, ``Software Project Management``, ``Software Implementation Management``, ``Software Quality Assurance``, ``Software Testing``, ``Generative AI``, ``.NET``, ``C#``, ``C``, ``Python``
