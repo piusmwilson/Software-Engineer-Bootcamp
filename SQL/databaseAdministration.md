@@ -1,5 +1,35 @@
 # DATABASE ADMINISTRATION
 
+## SQL Vs MySQL
+
+- SQL is a language Standardized for querying databases while MySQL is a Database. Think of MySQL as an open-source Implementation of SQL.
+- MySQL was developed by Oracle Corporation, while SQL is pretty much spread out between various vendors, e.g Oracle, Ms, Postgre, etc.
+- 
+
+## Database user management
+
+Management of users that were given access to the database is the sole responsibility of the user or users with the administrator role.
+
+The administrator has the responsibility to manage how other users in your organization access your database. For example, the administrator can add new users, block access to users who have left the organization, and help users who cannot log in.
+
+### Administrators have the following responsibilities:
+
+- Add new users
+- Delete users
+- Manage user access
+- Set user connection privilege
+- Edit user permissions
+- View existing user permissions
+- Change user passwords
+
+#### User-defined user roles
+If you want to have more flexibility and fine-grained access control to your data warehouse, you can create and use your own user-defined user roles to accommodate the special needs of your organization.
+
+#### Row and column access control (RCAC) overview
+Row and column access control (RCAC) is an extra layer of data security for your database. Row and column access control is sometimes referred to as fine-grained access control or FGAC. RCAC controls access to a table at the row level, column level, or both. RCAC can be used to complement the table privileges model.
+
+
+
 ## Glossary
 
 access control [Access control, compliance, and injection]
@@ -1461,4 +1491,4 @@ A vulnerability that was previously unknown; the developers have had “zero day
 
 ## Keywords
 
-``Databases``, ``Database Systems``, ``Database Management systems``, ``Database Administration``, ``Database Administrator``
+``Databases``, ``Database Systems``, ``Database Management systems``, ``Database Administration``, ``Database Administrator``, ``Database Design``

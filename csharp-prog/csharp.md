@@ -26,3 +26,17 @@ The .NET platform has been designed to deliver productivity, performance, securi
 For [Further reading>>](https://learn.microsoft.com/en-gb/dotnet/core/introduction?WT.mc_id=dotnet-35129-website)
 
 ## C# Programming
+
+## Conclusion
+
+.NET is the fundamental programming platform for the Microsoft developer ecosystem, and is the foundation of professional applications big and small. Each release of .NET includes hundreds of standard code libraries and APIs that can help you build massively scalable web applications, work with various databases, and even include .NET-specific machine learning in your code. 
+
+## Glossary
+
+## Resiurces & References
+
+- [NuGet](https://www.nuget.org/)
+
+## KeyWords
+
+``.NET Framework``, ``.NET Core``, ``.NET``
