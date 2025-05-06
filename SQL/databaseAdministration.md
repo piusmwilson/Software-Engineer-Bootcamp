@@ -32,20 +32,13 @@ Row and column access control (RCAC) is an extra layer of data security for your
 
 ## Glossary
 
-access control [Access control, compliance, and injection]
-Rules specifying who can access which parts of a database
-ACID [ACID and transactions]
-An acronym that refers to the requirement that database transactions be atomic, consistent, isolated, and durable
-aggregate functions [Sorting results]
-SQL functions that use more than one piece of data to generate a value
-ANSI [Basic SQL]
-American National Standards Institute. Their web site says ANSI is “a private, non-profit organization that administers and coordinates the U.S. voluntary standards and conformity assessment system.”
-associative table (database) [Relationships]
-A table that contains columns for foreign keys from the tables being associated
-atomic transaction [ACID and transactions]
-A transaction must be indivisible; pieces of it can’t be separated out.
-auto-increment [Primary and foreign keys]
-A database field whose value increases by one every time a row is added; usually used for a primary key
+- **Access control:** Rules specifying who can access which parts of a database.
+- **ACID:** An acronym that refers to the requirement that database transactions be atomic, consistent, isolated, and durable.
+- **Aggregate functions:**SQL functions that use more than one piece of data to generate a value.
+- **ANSI:** American National Standards Institute. Their web site says ANSI is “a private, non-profit organization that administers and coordinates the U.S. voluntary standards and conformity assessment system.”
+- **Associative table:**A table that contains columns for foreign keys from the tables being associated.
+- **Atomic transaction:** A transaction must be indivisible; pieces of it can’t be separated out.
+- **Auto-increment:** A database field whose value increases by one every time a row is added; usually used for a primary key.
 C
 cascading delete [Relationship rules and referential integrity]
 A process in which associated records are removed in order to maintain consistency; for example, deleting a restaurant customer would also remove all their orders.
