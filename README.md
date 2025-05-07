@@ -30,6 +30,9 @@ My Software Engineering Learning Repsitory (2025+)
 - [Get Started with Choreo](https://choreo.dev/)
 - [Choreo Documentation](https://wso2.com/choreo/docs/what-is-choreo/)
 - [Choreo: AI-NATIVE INTERNAL DEVELOPER PLATFORM AS A SERVICE](https://wso2.com/choreo/)
+- [YAML for beginners](https://www.redhat.com/en/blog/yaml-beginners)
+- [What is YAML? Understanding the Basics, Syntax, and Use Cases](https://www.datacamp.com/blog/what-is-yaml)
+- [YAML Tutorial : A Complete Language Guide with Examples](https://spacelift.io/blog/yaml)
 
 ## KEYWORDS
 ``Software``, ``Software Economics``, ``Software Engineering``, ``Software Engineering``, ``Software Development``, ``Software Project Management``, ``Software Implementation Management``, ``Software Quality Assurance``, ``Software Testing``, ``Generative AI``, ``.NET``, ``C#``, ``C``, ``Python``
