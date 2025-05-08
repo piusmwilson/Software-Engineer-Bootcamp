@@ -1482,6 +1482,11 @@ Z
 zero-day [Memory management issues]
 A vulnerability that was previously unknown; the developers have had “zero days” to fix it before it is exploited.
 
+## Resources & References
+
+- [SQL Roadmap](https://roadmap.sh/sql)
+-
+
 ## Keywords
 
 ``Databases``, ``Database Systems``, ``Database Management systems``, ``Database Administration``, ``Database Administrator``, ``Database Design``
