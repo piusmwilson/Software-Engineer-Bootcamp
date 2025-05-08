@@ -1,10 +1,6 @@
 # SOFTWARE-ENGINEER-BOOTCAMP
+
 My Software Engineering Learning Repsitory (2025+)
-
-## KEY REPOSITORY DOCUMENTATIONS
-
-- []()
-- []()
 
 ## REFERENCES & RESOURCES
 - [Introduction to .NET](https://learn.microsoft.com/en-gb/dotnet/core/introduction?WT.mc_id=dotnet-35129-website)
