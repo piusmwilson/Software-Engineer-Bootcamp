@@ -34,6 +34,7 @@ My Software Engineering Learning Repsitory (2025+)
 - [SRE Books](https://sre.google/books/)
 - [SRE Resources](https://sre.google/resources/#all-resources)
 - [Snyk: The AI-powered developer security platform](https://snyk.io/)
+- [How to Create Documentation with docs.page – A Beginner's Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
 
 ## KEYWORDS
 ``Software``, ``Software Economics``, ``Software Engineering``, ``Software Engineering``, ``Software Development``, ``Software Project Management``, ``Software Implementation Management``, ``Software Quality Assurance``, ``Software Testing``, ``Cloud Computing``, ``Generative AI``, ``.NET``, ``C#``, ``C``, ``Python``, ``YAML``, ``OpenShift``, ``Red Hat``,  ``Choreo``, ``API Management``, ``Containerization``, ``Docker``, ``Kubernetes``, ``DevOps``, ``SRE``
