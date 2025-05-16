@@ -236,6 +236,7 @@ Today, developers, enterprises, and organizations often create open APIs that al
 - [What is an API (application programming interface)?](https://www.ibm.com/think/topics/api)
 - [What is a RESTful API?](https://aws.amazon.com/what-is/restful-api/)
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-good-api-docs/)
+- [Discover API Security with Layer7](https://www.broadcom.com/products/software/layer7-api-security)
 
 ## Keywords
 ``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API lifecycle`` ``API integrations``, ``API Management``, ``API architecture``, ``API economy``, ``API Intelligence``, ``Layer7 API Security``, ``APIOps``
