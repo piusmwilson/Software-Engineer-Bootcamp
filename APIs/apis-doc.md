@@ -238,4 +238,4 @@ Today, developers, enterprises, and organizations often create open APIs that al
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-good-api-docs/)
 
 ## Keywords
-``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API lifecycle`` ``API integrations``, ``API Management``, ``API architecture``, ``API economy``
+``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API lifecycle`` ``API integrations``, ``API Management``, ``API architecture``, ``API economy``, ``API Intelligence``, ``Layer7 API Security``, ``APIOps``
