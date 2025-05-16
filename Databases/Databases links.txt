@@ -1,0 +1,17 @@
+Databases links
+----------------
+
+https://www.sourcecodester.com/blog/15377/stock-management-system-database-design.html
+https://data-sleek.com/blog/building-a-scalable-inventory-management-database-architecture/
+https://lilinduobrett.com/inventory-management-database-design/
+https://www.tutorials24x7.com/mysql/guide-to-design-database-for-task-manager-in-mysql
+https://vertabelo.com/blog/data-model-for-inventory-management-system/
+https://www.tutorials24x7.com/mysql/guide-to-design-database-for-timesheet-management-in-mysql
+https://10web.io/blog/inventory-management-system-design/
+https://data-sleek.com/blog/building-a-scalable-inventory-management-database-architecture/
+https://www.sourcecodester.com/blog/15377/stock-management-system-database-design.html
+https://www.geeksforgeeks.org/how-to-design-database-inventory-management-systems/
+
+
+HR
+https://www.tutorials24x7.com/mysql/guide-to-design-database-for-employee-management-system-in-mysql
