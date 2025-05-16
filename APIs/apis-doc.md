@@ -143,24 +143,41 @@ These layers can be _the security layer, caching layer, representation layer, or
 - Evaluate progress.
 - the go on to implement.
 
-### API Styles
+### API Styles or standards
+
+**Standards** are usually formal documents that establish uniform engineering or technical criteria, methods, processes, and practices. Organisations that define internet standards include;- IETF(_HTTP, URI,Basic Auth_), W3C(_SOAP, HTML,RDF_), OASIS(_ebXML,DocBook,WS-Security_) while **Styles** refer to abstract plans or conventions for the construction of an object or a system, such as architectural blueprints, engineering drawings or business processes.
 
 When designing APIs, its important to think about what style of API would be most suitable for your organisation, business or innovation initiatives.
 Similar to  architecture, when designing buildings in construction, various architectural styles also exsist when designing APIs and using a predifined solution structure helps speed up the process of designing your API solution.
 
 #### **Common API Styles include:**
 
-- **Tunnel Sytyle(SOAP):** Tunneling APIs builds on the common pattern of calling functions within a programming language, but extend that pattern to remote services.
+- **Tunnel Sytyle(SOAP):** also referred to as web service style, standing for **_Simple Object Access Protocol_** which is the most well known implementation of the tunnel style. Tunneling APIs builds on the common pattern of calling functions within a programming language, but extend that pattern to remote services.
+     - **SOAP usually:**
+       - Exposes an RPC-like interface & provides an interface descriptor for binding.
+       - Uses an XML-Centric message format.
+       - Uses HTTP as a transport protocol for a higher application-level protocol.
  
-- **URI style(CRUD):** URI-Based APIs provide an intuitive, simple way for application developers to invoke requests. Well designed APIs of this style employ "hackable" URI designs, which also act as a form of self-documentation.
+- **URI style(CRUD):** CRUD which stands for _Create, Read, Update & Delete_ refers to operations performed on a resource centric via web URI. URI-Based APIs provide an intuitive, simple way for application developers to invoke requests. Well designed APIs of this style employ "hackable" URI designs, which also act as a form of self-documentation.
+The reliance on HTTP protocol can also act as an advantage for client application developers who are familiar with the protocol.
 
-- **Hypermedia Style(REST):** Is similar to the URI style but utilizes hypermedia( which includes rick content types, hyperlinks, and other native HTTP tooling) to create interactions focused on tasks rather than on objects.
+**With URI Style:**
+    - An object or resource-centric API is exposed.
+    - URIs and query parameters are used to identify and filter objects.
+    - CRUD operations are mapped to HTTPS methods
+
+- **Hypermedia Style(REST):** REST stands for **_Representational State transfer_** which Is similar to the URI style but utilizes hypermedia( which includes rick content types, hyperlinks, and other native HTTP tooling) to create interactions focused on tasks rather than on objects.
+- 
+ **Some characteristics of a REST API are that it:**
+   - Exposes a task-based interface, often oincorporating a workflow or state machine.
+   - uses media to describe link semantics, template-based input and message structures.
+   - Provides its own URIs. 
 
 - **Event-Driven/Reactive Style:** includes the websocket protocol, which transmits data between a client and server with low overhead.
 
-- **GraphQL:** allows client users to tell the API exactly how to present the retrieved data without needing to create a large collection of unnecessary requests or responses.
+- **GraphQL:** Is a query language for APIs originally developed at Facebook(Now Meta) that was intended for flexibility of arguments. It allows client users to tell the API exactly how to present the retrieved data without needing to create a large collection of unnecessary requests or responses.
 
-- **gRPC:** Is language-agnostic and emphasizes a `contract-first` approach to API development, which requires client and server to agree on the payload format but allows for performance at scale.
+- **gRPC:** Is a HTTP2-based protocol that orignated at google, intended for high scale communication. It is language-agnostic and emphasizes a `contract-first` approach to API development, which requires client and server to agree on the payload format but allows for performance at scale.
 
 ### What is GraphQL?
 
