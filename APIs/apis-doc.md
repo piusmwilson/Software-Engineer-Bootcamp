@@ -123,6 +123,7 @@ API design, as a key part of any software development process thus,
 - It also includes _understanding the standards and best practices in API design to ensure the development of powerful, user-friendly, and secure APIs_. 
 
 The foundation of API Design lies in this knowledge, setting the stage for more complex API designing and development.
+
 ### Requirements of a Well-Designed API
 
 - Security, the APi should be protected against attacks and misuse.
@@ -141,6 +142,25 @@ These layers can be _the security layer, caching layer, representation layer, or
 - Proceed to design the interfaces.
 - Evaluate progress.
 - the go on to implement.
+
+### API Styles
+
+When designing APIs, its important to think about what style of API would be most suitable for your organisation, business or innovation initiatives.
+Similar to  architecture, when designing buildings in construction, various architectural styles also exsist when designing APIs and using a predifined solution structure helps speed up the process of designing your API solution.
+
+#### **Common API Styles include:**
+
+- **Tunnel Sytyle(SOAP):** Tunneling APIs builds on the common pattern of calling functions within a programming language, but extend that pattern to remote services.
+ 
+- **URI style(CRUD):** URI-Based APIs provide an intuitive, simple way for application developers to invoke requests. Well designed APIs of this style employ "hackable" URI designs, which also act as a form of self-documentation.
+
+- **Hypermedia Style(REST):** Is similar to the URI style but utilizes hypermedia( which includes rick content types, hyperlinks, and other native HTTP tooling) to create interactions focused on tasks rather than on objects.
+
+- **Event-Driven/Reactive Style:** includes the websocket protocol, which transmits data between a client and server with low overhead.
+
+- **GraphQL:** allows client users to tell the API exactly how to present the retrieved data without needing to create a large collection of unnecessary requests or responses.
+
+- **gRPC:** Is language-agnostic and emphasizes a `contract-first` approach to API development, which requires client and server to agree on the payload format but allows for performance at scale.
 
 ### What is GraphQL?
 
