@@ -9,6 +9,15 @@
 
 As an integral part of modern development, Application Programming Interfaces (APIs) allow software applications to communicate and use functions from other software applications or services. This documentation has been curated from researched information on APIs from various sources as well as learning resources. My goal is to have it inform beginners seeking knowledge on APIs as well as a reference point for API related information.
 
+As an API Designer you should be able to;-
+- Describe how APIs help customers consume digital information
+- Describe the stages of the API lifecycle
+- Summarize the various API styles, along with their advantages and limitations
+- Elaborate on the principles of good design and catering to the developer experience
+- Overcome common API design challenges
+- Outline the processes involved in architecting an API
+- Describe how to perform effective change management for your APIs
+
 
 ## What is an Application Programming Interfaces
 
@@ -229,4 +238,4 @@ Today, developers, enterprises, and organizations often create open APIs that al
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-good-api-docs/)
 
 ## Keywords
-``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API Management``, ``API architecture``, ``API integrations``
+``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API lifecycle`` ``API integrations``, ``API Management``, ``API architecture``, ``API economy``
