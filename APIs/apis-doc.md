@@ -100,7 +100,11 @@ API endpoints, especially high traffic ones, can cause bottlenecks and affect sy
 ## What is an API gateway?
 An API Gateway is an API management tool for enterprise clients that use a broad range of back-end services. API gateways typically handle common tasks like user authentication, statistics, and rate management that are applicable across all API calls.
 
-## API Design
+## API Design, API Architrcture
+
+The term "API design" or "API Architecture" refers to the process of developing a software interfrace that exposes backend data and application functionality for use in new applications. This includes the process of bridging between your APIs and developers to enable the creation of applications that allow the end users to consume the APIs.
+
+### API Design
 
 a solid understanding of what APIs are forms the basic cornerstone of API design. 
 
@@ -110,6 +114,24 @@ API design, as a key part of any software development process thus,
 - It also includes _understanding the standards and best practices in API design to ensure the development of powerful, user-friendly, and secure APIs_. 
 
 The foundation of API Design lies in this knowledge, setting the stage for more complex API designing and development.
+### Requirements of a Well-Designed API
+
+- Security, the APi should be protected against attacks and misuse.
+- Usability, The API should be easy for developers to leverage effectively.
+- Scalability, The API should be able to handle rapid spikes in traffic.
+- Testability, The API should be designed in a way that it helps developers experiment with functionality.
+- Reliability, The API should be robust enough to minimize downtime.
+
+Dividing an API architecture into layers simplifies the process of interface design, where each equality is abstracted away from API implementation and handled in a centralised server architecture, which can then be used across multiple interfaces.
+These layers can be _the security layer, caching layer, representation layer, orchestration layer_.
+
+### Steps of a Basic API Design Approach
+
+- Start by determining the goals of the API.
+- Then Identify the intended users.
+- Proceed to design the interfaces.
+- Evaluate progress.
+- the go on to implement.
 
 ### What is GraphQL?
 
