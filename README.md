@@ -3,7 +3,8 @@
 My Software Engineering Learning Repsitory (2025+)
 
 ## REFERENCES & RESOURCES
-- [Introduction to .NET](https://learn.microsoft.com/en-gb/dotnet/core/introduction?WT.mc_id=dotnet-35129-website)
+- [The Clean Code Handbook: How to Write Better Code for Agile Software Development](https://www.freecodecamp.org/news/the-clean-code-handbook/)
+[Introduction to .NET](https://learn.microsoft.com/en-gb/dotnet/core/introduction?WT.mc_id=dotnet-35129-website)
 - [Get started with .NET](https://learn.microsoft.com/en-gb/dotnet/core/get-started)
 - [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 - [.NET vs C#: Decoding the Best Language for Your Project](https://www.openxcell.com/blog/dotnet-vs-csharp/)

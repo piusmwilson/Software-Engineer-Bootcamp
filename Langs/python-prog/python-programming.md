@@ -15,6 +15,7 @@ A high-level interpreted programming language, known for its simplicity and read
 - [Python Developer](#python-developer)
   - [Technical skills needed to become a competent Python developer](#technical-skills-needed-to-become-a-competent-python-developer-)
 - [Object Oriented Python](#object-oriented-python)
+- [Master Object Oriented Programming in Python](https://www.freecodecamp.org/news/master-object-oriented-programming-in-python/)
 - [Python Libraries](#python-libraries)
 - [Python Frameworks](#python-frameworks)
 - [Conclusion](#conclusion)
