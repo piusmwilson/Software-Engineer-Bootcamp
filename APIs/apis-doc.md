@@ -9,6 +9,15 @@
 
 As an integral part of modern development, Application Programming Interfaces (APIs) allow software applications to communicate and use functions from other software applications or services. This documentation has been curated from researched information on APIs from various sources as well as learning resources. My goal is to have it inform beginners seeking knowledge on APIs as well as a reference point for API related information.
 
+As an API Designer you should be able to;-
+- Describe how APIs help customers consume digital information
+- Describe the stages of the API lifecycle
+- Summarize the various API styles, along with their advantages and limitations
+- Elaborate on the principles of good design and catering to the developer experience
+- Overcome common API design challenges
+- Outline the processes involved in architecting an API
+- Describe how to perform effective change management for your APIs
+
 
 ## What is an Application Programming Interfaces
 
@@ -114,6 +123,7 @@ API design, as a key part of any software development process thus,
 - It also includes _understanding the standards and best practices in API design to ensure the development of powerful, user-friendly, and secure APIs_. 
 
 The foundation of API Design lies in this knowledge, setting the stage for more complex API designing and development.
+
 ### Requirements of a Well-Designed API
 
 - Security, the APi should be protected against attacks and misuse.
@@ -132,6 +142,42 @@ These layers can be _the security layer, caching layer, representation layer, or
 - Proceed to design the interfaces.
 - Evaluate progress.
 - the go on to implement.
+
+### API Styles or standards
+
+**Standards** are usually formal documents that establish uniform engineering or technical criteria, methods, processes, and practices. Organisations that define internet standards include;- IETF(_HTTP, URI,Basic Auth_), W3C(_SOAP, HTML,RDF_), OASIS(_ebXML,DocBook,WS-Security_) while **Styles** refer to abstract plans or conventions for the construction of an object or a system, such as architectural blueprints, engineering drawings or business processes.
+
+When designing APIs, its important to think about what style of API would be most suitable for your organisation, business or innovation initiatives.
+Similar to  architecture, when designing buildings in construction, various architectural styles also exsist when designing APIs and using a predifined solution structure helps speed up the process of designing your API solution.
+
+#### **Common API Styles include:**
+
+- **Tunnel Sytyle(SOAP):** also referred to as web service style, standing for **_Simple Object Access Protocol_** which is the most well known implementation of the tunnel style. Tunneling APIs builds on the common pattern of calling functions within a programming language, but extend that pattern to remote services.
+     - **SOAP usually:**
+       - Exposes an RPC-like interface & provides an interface descriptor for binding.
+       - Uses an XML-Centric message format.
+       - Uses HTTP as a transport protocol for a higher application-level protocol.
+ 
+- **URI style(CRUD):** CRUD which stands for _Create, Read, Update & Delete_ refers to operations performed on a resource centric via web URI. URI-Based APIs provide an intuitive, simple way for application developers to invoke requests. Well designed APIs of this style employ "hackable" URI designs, which also act as a form of self-documentation.
+The reliance on HTTP protocol can also act as an advantage for client application developers who are familiar with the protocol.
+
+**With URI Style:**
+    - An object or resource-centric API is exposed.
+    - URIs and query parameters are used to identify and filter objects.
+    - CRUD operations are mapped to HTTPS methods
+
+- **Hypermedia Style(REST):** REST stands for **_Representational State transfer_** which Is similar to the URI style but utilizes hypermedia( which includes rick content types, hyperlinks, and other native HTTP tooling) to create interactions focused on tasks rather than on objects.
+- 
+ **Some characteristics of a REST API are that it:**
+   - Exposes a task-based interface, often oincorporating a workflow or state machine.
+   - uses media to describe link semantics, template-based input and message structures.
+   - Provides its own URIs. 
+
+- **Event-Driven/Reactive Style:** includes the websocket protocol, which transmits data between a client and server with low overhead.
+
+- **GraphQL:** Is a query language for APIs originally developed at Facebook(Now Meta) that was intended for flexibility of arguments. It allows client users to tell the API exactly how to present the retrieved data without needing to create a large collection of unnecessary requests or responses.
+
+- **gRPC:** Is a HTTP2-based protocol that orignated at google, intended for high scale communication. It is language-agnostic and emphasizes a `contract-first` approach to API development, which requires client and server to agree on the payload format but allows for performance at scale.
 
 ### What is GraphQL?
 
@@ -227,6 +273,7 @@ Today, developers, enterprises, and organizations often create open APIs that al
 - [What is an API (application programming interface)?](https://www.ibm.com/think/topics/api)
 - [What is a RESTful API?](https://aws.amazon.com/what-is/restful-api/)
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-good-api-docs/)
+- [Discover API Security with Layer7](https://www.broadcom.com/products/software/layer7-api-security)
 
 ## Keywords
-``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API Management``, ``API architecture``, ``API integrations``
+``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API lifecycle`` ``API integrations``, ``API Management``, ``API architecture``, ``API economy``, ``API Intelligence``, ``Layer7 API Security``, ``APIOps``
