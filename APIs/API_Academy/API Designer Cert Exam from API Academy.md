@@ -2,26 +2,26 @@
 
 ### What are some common user characteristics that may be useful when driving the developer experience? (Select all that apply)
 
-- **The industry they operate in.**
-- **The size of their organization – whether startup or enterprise.**
+- **_The industry they operate in._**
+- **_The size of their organization – whether startup or enterprise._**
 - Their level of familiarity with APIs and API architecture.**
 Their dietary preference.
-- **The platform they are using or creating applications for.**
+- **_The platform they are using or creating applications for._**
 
 ### Addressing this challenge early on in the process can help define early adoption, future success, and the lifespan of the API. It can be managed through a combination of load testing, authentication, throttling, quota management, and API caching. What challenge in API design are we talking about?
 
-- **Scalability**
+- **_Scalability_**
 - Security
 - Cost
 
 **Question 3: Evaluate the following statement. The new revenue potential is the biggest benefit that APIs can offer to organizations looking to grow their business.**
 
 - True
-- **False**
+- **_False_**
 
 **Question 4: In the semantic versioning approach, the following is true:**
 
-- **The Revision number is relevant the most to the Test Team.**
+- **_The Revision number is relevant the most to the Test Team._**
 - The Major release number is relevant the most to the Test Team.
 - All options are correct.
 - The Minor release number is relevant the most to the Build Team
@@ -29,11 +29,11 @@ Their dietary preference.
 **Question 5: The key areas of the API360 model are: (select all that apply)**
 
 - Feedback & Analysis
-- **Scalability & Evolvability**
+- **_Scalability & Evolvability_**
 - Readiness & Identification
-- **Alignment & Usefulness**
-- **Manageability & Security**
-- **Engagement & Usability**
+- **_Alignment & Usefulness_**
+- **_Manageability & Security_**
+- **_Engagement & Usability_**
 
 **Question 6: By offering frequent updates to your API to address security vulnerabilities to protect your end users, and by being completely transparent about the updates in your communication to your third-party developers, you are establishing and building**
 
@@ -74,9 +74,9 @@ Their dietary preference.
 ## Question 11: What belongs among the common techniques of “extending the interface” in relation to making changes to your APIs? (select all that apply)
 
 - Make all new changes to the API mandatory
-- **Never change the meaning of existing things in your API**
-- **Make all new changes to the API optional**
-- **Never take anything away  from the functionality of your existing API**
+- **_Never change the meaning of existing things in your API_**
+- **_Make all new changes to the API optional_**
+- **_Never take anything away  from the functionality of your existing API_**
 
 ## Question 12: Match the common challenges in API design with the correct statement.
 
@@ -88,7 +88,7 @@ Their dietary preference.
 
 - Who are the developers who will attract clients to my APIs?
 - How do I attract and retain the right consumers and developers?
-- **What factors will affect the runtime scalability of my APIs?**
+- **_What factors will affect the runtime scalability of my APIs?_**
 - Who are the intended and expected consumers of my APIs?
 
 ## Question 14: Match the following layers of a well-designed API server architecture with the correct statement.
@@ -107,17 +107,17 @@ Their dietary preference.
 ## Question 16: Evaluate the following statement. When you make breaking changes to your API, treat it like a new API.
 
 - False
-- **True**
+- **_True_**
 
 ## Question 17: Evaluate the following statement. API-related threats, privacy protection, API usage metrics, and access control are all important issues to the Manageability and Security component of the API360 model and can be readily addressed by technology such as an API Management platform.
 
 - False
-- **True**
+- **_True_**
 
 ## Question 18: Depending on requirements, a well-designed API server architecture might contain these layers: (select all that apply)
 
-- **Securtiy**
-- **Caching**
+- **_Securtiy_**
+- **_Caching_**
 - Basic
 - Advanced
 - **Representation**
@@ -125,7 +125,7 @@ Their dietary preference.
 
 ## Question 19: Evaluate the following statement. Standards bodies (companies such as IETF, W3C, or OASIS) are creating API and protocol specifications and defining internet standards.
 
-- **True**
+- **_True_**
 - False
 
 ## Question 20: Match the statements with correct answers:
@@ -137,11 +137,11 @@ Their dietary preference.
 ## Question 21: Evaluate the following statement. Ultimately, improving an API’s usability will result in higher adoption rates and lower integration costs – both of which are important goals for any API program.
 
 - False
-- **True**
+- **_True_**
 
 ## Question 22: “Be conservative in what you do, be liberal in what you accept from others”, is a rule coined by an early pioneer of the Internet, otherwise known as Postel’s law. In a networking context, it is paraphrased as:
 
-- **“Be conservative in what you send, be liberal in what you accept”,**
+- **_“Be conservative in what you send, be liberal in what you accept”_**
 - “Deal with unexpected elements by always being conservative”
 - “Always be liberal with your requests and responses”
 - “Be liberal in what you send, be conservative in what you accept”
@@ -150,24 +150,24 @@ Their dietary preference.
 
 - System Stability
 - Scalability
-- **All options are correct**
+- **_All options are correct_**
 - Delivery Speed
 
 ## Question 24: Which of these statements are correct when describing the perspective obstacle of API design? (select all that apply)
 
 - Designers may lack time, budget, and/or skills.
-- **A well-designed interface should protect the end user from the details of the underlying systems.**
-- **A designer’s internal perspective and specialized knowledge could leak out into design in a way that makes little sense or add no value to an external developer.**
+- **_A well-designed interface should protect the end user from the details of the underlying systems._**
+- **_A designer’s internal perspective and specialized knowledge could leak out into design in a way that makes little sense or add no value to an external developer._**
 - Many organizations segregate the decision makers and users from the designers and teams tasked with implementation and testing.
 - Technical purity shouldn’t always win.
 
 ## Question 25: Name the steps of a basic API design approach in correct order
 
-- _Determine goals_
-- _Identify users_
-- _Design Interface_
-- _Evaluate_
-- _Implement_
+- **_Determine goals_**
+- **_Identify users_**
+- **_Design Interface_**
+- **_Evaluate_**
+- **_Implement_**
 
 ## Question 26: Which of these is NOT a characteristic of SOAP?
 
@@ -184,7 +184,7 @@ Their dietary preference.
 
 ## Question 28: Evaluate the following statement. The obstacles in API design that designers might face are: Designers project their own perspective. Designers have biases. Designers make assumptions. Designers lack resources.
 
-- **True**
+- **_True_**
 - False
 
 ## Question 29: With the customer data they were able to collect from their API program, Disney was able to continuously build a better experience for their customers. Which of the following API business benefits help drive this type of ‘data-driven insight’?
