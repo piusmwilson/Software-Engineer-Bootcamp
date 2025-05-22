@@ -238,6 +238,28 @@ Writing comprehensive API documentation is part of the API management process. A
 - Aiming the writing style at beginners
 - Covering all the problems the API can solve for the users.
 
+### API Change Management
+
+In API design, change management includes Versioning APIs, and communicating what is new as well as the risks and considerations for upgrading. Teams will be providing clear release histories, to  help track new and deprecated features and bugs not matter which version a user is running.
+
+In such instances teams will want to be able to support backward compartibility or even make upgrading or migration processes as painless as possible when choosing to deprecate features of or an entire API.
+
+#### Define API Versioning
+
+Because API Versioning can often be a controversial topic in the API Design Community, it's believed that if you can avoid or don't need to version then don't do it.
+
+#### API Versioning Principles
+
+Postel's Law is a guideline for creators of software protocols: "Be conservative in what you do, be liberal in what you acceot from others." where in a networking context, it is paraphrased as: "Be conservative in what you send, be liberal in what you accept."
+
+#### Issues to avoid when extending the interface
+
+Some of the "extending the interface" techniques include;-
+- Never take anything away-always try to preserve what you already have.
+- Never change the meaning of exsisting things-preserve the meaning.
+- Make all new changes optional-don't require the client to provide a new parameter, or insist that they recognize new fields in the response.
+
+
 ## How to use an API?
 
 The steps to implement a new API include:

@@ -37,6 +37,8 @@ My Software Engineering Learning Repsitory (2025+)
 - [Snyk: The AI-powered developer security platform](https://snyk.io/)
 - [How to Create Documentation with docs.page – A Beginner's Tutorial](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
 - [Jenkins User Documentation](https://www.jenkins.io/doc/)
+- [MSYS2](https://www.msys2.org/)
+- [Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
 
 ## KEYWORDS
 ``Software``, ``Software Economics``, ``Software Engineering``, ``Software Engineering``, ``Software Development``, ``Software Project Management``, ``Software Implementation Management``, ``Software Quality Assurance``, ``Software Testing``, ``Cloud Computing``, ``Generative AI``, ``.NET``, ``C#``, ``C``, ``Python``, ``YAML``, ``OpenShift``, ``Red Hat``,  ``Choreo``, ``API Management``, ``Containerization``, ``Docker``, ``Kubernetes``, ``DevOps``, ``SRE``
