@@ -133,7 +133,7 @@ The foundation of API Design lies in this knowledge, setting the stage for more 
 - Reliability, The API should be robust enough to minimize downtime.
 
 Dividing an API architecture into layers simplifies the process of interface design, where each equality is abstracted away from API implementation and handled in a centralised server architecture, which can then be used across multiple interfaces.
-These layers can be _the security layer, caching layer, representation layer, orchestration layer_.
+These layers can be **_the security layer, caching layer, representation layer, orchestration layer_**.
 
 ### Steps of a Basic API Design Approach
 
@@ -201,6 +201,21 @@ While APIs are self-explanatory, API documentation acts as a guide to improve us
 5. Market the API 
 Just as Amazon is an online marketplace for retail, API marketplaces exist for developers to buy and sell other APIs. Listing your API can allow you to monetize it.
 
+### Common Challenges of API Design
+
+- **Managing Cost:** From managing multiple gateway servers and instances to building an entire API Management program from the ground up, the wrong infrastructure approach can lead to unnecessary and unweidly expenses.
+
+- **Scalability:** Addressing scalability early on in the process can help define early adoption, future success, and the lifespan of an API.
+
+- **Security:** Security should be incorporated at the infrastructure level. This requires a multi-pronged approach that includes leveragig an API Gateway to easily validate, authorize and control the access of legitimate API consumers, as well as protect endpoints against malicious traffic.
+
+### API Design Obstacles
+
+Some obstacles that an API designer may face during the design process include;
+- The perspective obstacle.
+- The Bias obstalce.
+- The Assumption obstacle.
+- The resource obstacle.
 
 ## What is API testing?
 API testing strategies are similar to other software testing methodologies. The main focus is on validating server responses. API testing includes:
