@@ -317,6 +317,10 @@ Today, developers, enterprises, and organizations often create open APIs that al
 - [What is a RESTful API?](https://aws.amazon.com/what-is/restful-api/)
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-good-api-docs/)
 - [Discover API Security with Layer7](https://www.broadcom.com/products/software/layer7-api-security)
+- [API Architecture](https://dev.to/jahid6597/api-architecture-1h9p)
+- [Application And API (Presentation) Layers](https://www.linkedin.com/pulse/application-api-presentation-layers-sara-ali-scdnf/)
+- [What Is API Caching? A Practical Overview for Developers](https://www.harpersystems.dev/post/what-is-api-caching-a-practical-overview-for-developers)
+- [What is API orchestration?](https://www.ibm.com/think/topics/api-orchestration#:~:text=An%20orchestration%20layer%20puts%20all,to%20achieve%20a%20specific%20goal.)
 
 ## Keywords
 ``API``, ``Application Programming Interfaces``, ``Software``, ``Software Applications``, ``software interface``, ``Software System``, ``API design``, ``API Development``, ``API lifecycle`` ``API integrations``, ``API Management``, ``API architecture``, ``API economy``, ``API Intelligence``, ``Layer7 API Security``, ``APIOps``
