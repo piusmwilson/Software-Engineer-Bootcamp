@@ -226,8 +226,8 @@ Their dietary preference.
 
 ## Question 35: Match the following qualities of a well-designed API with their description.
 
-- **Security ->** The API is protected against attack and misuse.
-- **Usability ->** The API is easy for developers to effectively leverage.
-- **Scalability ->** The API is able to handle rapid spikes in traffic.
-- **Testability ->** The API is designed to help developers experiment with functionality.
-- **Reliability ->** The API is robust enough to minimize downtime.
+- **Security ->** _The API is protected against attack and misuse._
+- **Usability ->** _The API is easy for developers to effectively leverage._
+- **Scalability ->** _The API is able to handle rapid spikes in traffic._
+- **Testability ->** _The API is designed to help developers experiment with functionality._
+- **Reliability ->** _The API is robust enough to minimize downtime._
