@@ -295,6 +295,8 @@ Today's connected world
 
 The development of APIs should follow a thought process similar to developing any well-designed product with the end user in mind, who if you think about it, doesn't want to merely use an API but mostly solve a very specific problem.
 
+API Product Management is all about knowing how to manage APIs from basic understanding of how APIs function, to designing and building APIs, to documentation best practices, API catalog management, and the basics of testing and securing APIs.
+
 ## Conclusion
 
 APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. At their simplest level, Application Programming Interfaces (APIs) enable communication between disparate software applications. Developers can connect APIs from different companies and services to achieve specific results.

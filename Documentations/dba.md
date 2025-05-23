@@ -1485,7 +1485,7 @@ A vulnerability that was previously unknown; the developers have had “zero day
 ## Resources & References
 
 - [SQL Roadmap](https://roadmap.sh/sql)
--
+- [View user-defined functions](https://learn.microsoft.com/en-us/sql/relational-databases/user-defined-functions/view-user-defined-functions?view=sql-server-ver17&source=docs)
 
 ## Keywords
 
